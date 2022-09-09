@@ -1,0 +1,40 @@
+1b285d5 (HEAD -> develop) HEAD@{0}: commit (merge): resolve conflict
+d51d758 HEAD@{1}: commit: changed img source for creating conflict (index file)
+c93e895 (feature3) HEAD@{2}: checkout: moving from feature4 to develop
+29104ed (feature4) HEAD@{3}: checkout: moving from develop to feature4
+c93e895 (feature3) HEAD@{4}: checkout: moving from feature4 to develop
+29104ed (feature4) HEAD@{5}: commit: changed img source for creating conflict
+e58eb08 (feature1) HEAD@{6}: merge feature1: Fast-forward
+c93e895 (feature3) HEAD@{7}: checkout: moving from feature1 to feature4
+e58eb08 (feature1) HEAD@{8}: commit: changed img source
+c93e895 (feature3) HEAD@{9}: merge feature4: Fast-forward
+232d79c (feature2) HEAD@{10}: checkout: moving from feature4 to feature1
+c93e895 (feature3) HEAD@{11}: checkout: moving from feature3 to feature4
+c93e895 (feature3) HEAD@{12}: merge develop: Fast-forward
+7f63021 HEAD@{13}: checkout: moving from develop to feature3
+c93e895 (feature3) HEAD@{14}: merge feature4: Fast-forward
+7f63021 HEAD@{15}: merge feature3: Fast-forward
+232d79c (feature2) HEAD@{16}: checkout: moving from feature4 to develop
+c93e895 (feature3) HEAD@{17}: commit: added style files
+7f63021 HEAD@{18}: checkout: moving from feature3 to feature4
+7f63021 HEAD@{19}: commit: added img files
+232d79c (feature2) HEAD@{20}: checkout: moving from HW1-Git to feature3
+0635b47 (HW1-Git) HEAD@{21}: commit: changed source img
+232d79c (feature2) HEAD@{22}: checkout: moving from feature3 to HW1-Git
+232d79c (feature2) HEAD@{23}: checkout: moving from HW1-Git to feature3
+232d79c (feature2) HEAD@{24}: merge develop: Fast-forward
+e6fed71 (master) HEAD@{25}: checkout: moving from feature2 to HW1-Git
+232d79c (feature2) HEAD@{26}: checkout: moving from feature1 to feature2
+232d79c (feature2) HEAD@{27}: merge develop: Fast-forward
+e3803ba HEAD@{28}: checkout: moving from develop to feature1
+232d79c (feature2) HEAD@{29}: merge feature2: Fast-forward
+e3803ba HEAD@{30}: merge feature1: Fast-forward
+3db0014 HEAD@{31}: checkout: moving from feature2 to develop
+232d79c (feature2) HEAD@{32}: commit: added styles to file
+71349ad HEAD@{33}: commit: added files of styles
+e3803ba HEAD@{34}: checkout: moving from feature1 to feature2
+e3803ba HEAD@{35}: commit: added image source to index.html
+2246d5f HEAD@{36}: commit: added files of images
+3db0014 HEAD@{37}: checkout: moving from develop to feature1
+3db0014 HEAD@{38}: commit: added file index.html
+e6fed71 (master) HEAD@{39}: checkout: moving from master to develop
