@@ -28,6 +28,7 @@ function OrangePrice(orange = 12.50, margin = 15) {
     } while (!(isFinite(margin) && margin > 0));
 
     let orangePrice = (orange + orange * margin/100).toFixed(2);
+
     confirm(`Price of oranges: ${orangePrice}`);
     return orangePrice;
 }
