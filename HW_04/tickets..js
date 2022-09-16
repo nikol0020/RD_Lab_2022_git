@@ -1,4 +1,4 @@
-function Tickets(arr = [25, 50, 25, 100, 25, 50]) {  //yes
+function tickets(arr = [25, 50, 25, 100, 25, 50]) {  //yes
     let count25 = count50 = 0;
     let message = 'YES';
     let i = 1;
@@ -40,4 +40,4 @@ function Tickets(arr = [25, 50, 25, 100, 25, 50]) {  //yes
     return message;
 }
 
-Tickets();
+tickets();
